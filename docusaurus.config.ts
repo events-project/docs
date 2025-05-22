@@ -11,7 +11,7 @@ const config: Config = {
   tagline:
     "Welcome to the Events developer hub. You'll find comprehensive guides and documentation to help you start working with Events as quickly as possible, as well as support if you get stuck. Let's jump right in!",
   url: "https://events.com",
-  baseUrl: "/",
+  baseUrl: "/docs/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/logo.svg",
